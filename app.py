@@ -65,5 +65,7 @@ def analyze():
     except Exception as e:
         return jsonify({'error': f'エラーが発生しました: {str(e)}'}), 500
 
-if __name__ == '__main__':
-    app.run(debug=True, port=5000)
+# gunicornを使ってrender上（Port 10000指定）で動かすために設定
+if __name__ == "__main__":
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host="0.0.0.0", port=port)
