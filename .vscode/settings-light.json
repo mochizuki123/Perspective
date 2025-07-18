@@ -1,0 +1,10 @@
+{
+    "workbench.colorCustomizations": {
+        "editor.background": "#f8f8f8",
+        "sideBar.background": "#f3f3f3",
+        "activityBar.background": "#e8e8e8",
+        "statusBar.background": "#007acc",
+        "titleBar.activeBackground": "#dddddd",
+        "panel.background": "#f8f8f8"
+    }
+} 

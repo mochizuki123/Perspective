@@ -1,0 +1,14 @@
+{
+    "workbench.colorCustomizations": {
+        "editor.background": "#1e1e1e",
+        "sideBar.background": "#252526",
+        "activityBar.background": "#333333",
+        "statusBar.background": "#007acc",
+        "titleBar.activeBackground": "#3c3c3c",
+        "panel.background": "#1e1e1e"
+    },
+    "editor.fontSize": 14,
+    "editor.fontFamily": "Consolas, 'Courier New', monospace",
+    "files.encoding": "utf8",
+    "files.eol": "\n"
+} 
