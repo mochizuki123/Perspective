@@ -91,7 +91,7 @@
 - **0.3-0.7**: 中程度のリスク
 - **0.7-1.0**: 高リスク
 
-## ⚠️ 注意事項
+## 注意事項
 
 - このアプリケーションは実験的な目的で作成されています
 - 分析結果は参考値として扱ってください
@@ -105,7 +105,7 @@
 - APIキーは適切に管理し、公開しないようご注意ください
 
 
-## 🔗 参考リンク
+## 参考リンク
 
 - [Perspective API Documentation](https://developers.perspectiveapi.com/s/docs)
 - [Google Cloud Console](https://console.cloud.google.com/)
